@@ -1,0 +1,33 @@
+[
+    {
+      "id":1,
+      "name":"saravana",
+      "address":"saravana street",
+      "phone":11111111
+    },
+    {
+      "id":2,
+      "name":"karthick",
+      "address":"karthick street",
+      "phone":22222222
+    },
+    {
+      "id":3,
+      "name":"kumar",
+      "address":"kumar street",
+      "phone":333333333
+    },
+    {
+      "id":4,
+      "name":"sathis",
+      "address":"sathis street",
+      "phone":4444444444
+    },
+    {
+      "id":5,
+      "name":"praveen",
+      "address":"praveen street",
+      "phone":5555555555
+    }
+  ]
+

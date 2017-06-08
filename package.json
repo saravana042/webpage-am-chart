@@ -1,0 +1,50 @@
+{
+  "name": "webpage-am-chart",
+  "version": "1.0.0",
+  "description": "webpage with am chart, select dropdown, side menu and less css",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saravana042/Webpage-with-AM-chart.git"
+  },
+  "keywords": [
+    "Am",
+    "chart",
+    "select",
+    "drop",
+    "down",
+    "side",
+    "menu",
+    "router",
+    "less",
+    "css"
+  ],
+  "author": "saravanan karthick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saravana042/Webpage-with-AM-chart/issues"
+  },
+  "homepage": "https://github.com/saravana042/Webpage-with-AM-chart#readme",
+  "devDependencies": {
+    "@amcharts/amcharts3-react": "^2.0.0",
+    "css-loader": "^0.28.1",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.3",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "style-loader": "^0.17.0"
+  },
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.24.1",
+    "history": "^1.17.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "webpack": "^2.5.0",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
